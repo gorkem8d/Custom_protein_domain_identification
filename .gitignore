@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Data files
+*.fa
+*.fasta
+*.fastq
+
+# Large results
+*.png
+*.svg
+*.eps
+*.html
+*.xml
+*.tsv
+*.txt
+
+# Keep only code and documentation
